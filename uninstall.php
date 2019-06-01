@@ -3,7 +3,7 @@
 /**
 * Trigger this file on plugin uninstall
 *
-* @package wp_plugin_example1
+* @package WpPluginExample1
 */
 
 if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ){

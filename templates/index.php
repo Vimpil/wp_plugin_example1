@@ -1,0 +1,1 @@
+<h1>WP_plugin_example1</h1>

@@ -1,0 +1,17 @@
+{
+    "name": "root/wp_plugin_example1",
+    "description": "Some example wp_plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Vimpil",
+            "email": "vimpil@ya.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
